@@ -52,5 +52,5 @@ public class BooleanToString {
 ***
 ### Courses: 
 -Java Prepare [HackerRank](https://www.hackerrank.com/dashboard)
-![hackerrank](/rsschool-cv/courses.bmp "Курсы")
+![hackerrank](/courses.bmp "Курсы")
 
