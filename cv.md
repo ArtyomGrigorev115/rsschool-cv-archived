@@ -53,4 +53,13 @@ public class BooleanToString {
 ### Courses: 
 -Java Prepare [HackerRank](https://www.hackerrank.com/dashboard)
 ![hackerrank](/courses.bmp "Курсы")
+-JavaScript Manual on learnjavascript.ru (in progress)
+-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
+***
+### Languages:
+-Russian - Native
+-Ukrainian - Intermediate
+-English - Basic
 
