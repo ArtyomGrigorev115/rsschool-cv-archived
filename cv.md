@@ -1,11 +1,25 @@
-# Привет мир
+# Artyom Grigorev
 ***
-## Junior Frontend Developer
+## Junior Frontend Developer, web-designer
 ***
 ## Contact information:
 
-**Phone**: +38 068 4489766
+**Phone**: +555 555 555
 
-**E-mail:** ankavoloshina@gmail.com
+**E-mail:** artomgrigorev@gmail.com
 
-**Telegram:** @hannavoloshyna
+**Telegram:** @artyomgrogorev
+### About Myself
+I constantly attend different courses on programming. I can work in a team (take responsibility, give tasks, read someone else's code)
+
+**My hobby:** participation in hackathons, e -sports, reading technical literature
+### Skills and Proficiency:
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code, IntelliJ IDEA
+- Adobe Photoshop, Illustrator, InDesign
+- Java Basics
+- C#, NET Basics
+***
+### Code example
