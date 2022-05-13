@@ -9,6 +9,8 @@
 **E-mail:** artomgrigorev@gmail.com
 
 **Telegram:** @artyomgrogorev
+
+
 ***
 
 ### About Myself
@@ -45,3 +47,10 @@ public class BooleanToString {
 
 }
 ```
+
+
+***
+### Courses: 
+-Java Prepare [HackerRank](https://www.hackerrank.com/dashboard)
+
+
