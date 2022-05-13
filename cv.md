@@ -21,5 +21,6 @@ I constantly attend different courses on programming. I can work in a team (take
 - Adobe Photoshop, Illustrator, InDesign
 - Java Basics
 - C#, NET Basics
+
 ***
 ### Code example
