@@ -59,7 +59,7 @@ public class BooleanToString {
 
 ***
 ### Languages:
--Russian - Native
--Ukrainian - Intermediate
--English - Basic
+- Russian - Native
+- Ukrainian - Intermediate
+- English - Basic
 
